@@ -3,3 +3,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
 }
+
+#contendor{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+    padding: 20px;
+}
