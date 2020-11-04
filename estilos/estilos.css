@@ -10,3 +10,10 @@ body{
     color: bisque;
     padding: 20px;
 }
+
+footer{
+    color: chartreuse;
+    background-color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
