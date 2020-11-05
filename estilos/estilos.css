@@ -1,11 +1,29 @@
 body{
-    background-color: crimson;
-    color: aliceblue;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    background-color: lavender;
+    color: black;
+    text-align: center;
 }
 
-#contendor{
-    background-color: aquamarine;
-    padding: 20px;
+#contenedor{
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#header1{
+    margin: 0;
+    padding: 1px;
+    background-color: brown;
+}
+
+#footer1{
+    margin: 0;
+    padding: 1px;
+    background-color: grey;
+}
+
+p{
+    background-color:crimson;
+    padding: 50px;
+    margin: 0 auto;
 }
